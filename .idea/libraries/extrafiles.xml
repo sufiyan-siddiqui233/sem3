@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="extrafiles">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SpendingTracker/build/classes/extrafiles/mysql-connector-java-8.0.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SpendingTracker/build/classes/extrafiles/jcalendar-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SpendingTracker">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SpendingTracker/dist/SpendingTracker.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
